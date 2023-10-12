@@ -1,6 +1,6 @@
 # Task-Klagenfurt
 
-**README: Nearest Neighbor Classifier for Shopping Data**
+**Nearest Neighbor Classifier for Shopping Data**
 
 **Description:**
 
